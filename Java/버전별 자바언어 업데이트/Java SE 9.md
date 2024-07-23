@@ -1,7 +1,13 @@
 ### 특징
 ```
 Java Platform module system, see Project Jigsaw on OpenJDK.
-자바 플랫폼 모듈 시스템, 
+자바 플랫폼 모듈 시스템이란
+모듈 > 비슷한 기능을 모아둔 것.
+여러 모듈을 모아두고 사용할 수 있게 사용자들을 한 곳에 모아주는 역할이 플랫폼이라고 생각한다. > 사용자와 공급자를 연결함
+
+플랫폼은  
+
+아래 링크에서 확인 가능하다.
 ```
 https://openjdk.org/projects/jigsaw/
 =======================
