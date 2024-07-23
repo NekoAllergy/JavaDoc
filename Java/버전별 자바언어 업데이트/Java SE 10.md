@@ -1,4 +1,5 @@
 >Feature
+
 >Local Variable Type Inference
 >See also Local Variable Type Inference: Style Guidelines
 
@@ -7,5 +8,6 @@
 ```
 
 >Description
+
 >Introduced in this release.
 >Local-Variable Type Inference extends type inference to declarations of local variables with initializers.
