@@ -4,3 +4,6 @@
 
 ```
 https://docs.oracle.com/en/java/
+
+
+https://docs.oracle.com/javase/specs/index.html
