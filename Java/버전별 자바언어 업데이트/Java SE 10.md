@@ -6,6 +6,6 @@
 ```
 ```
 
->	Description
+>Description
 >Introduced in this release.
 >Local-Variable Type Inference extends type inference to declarations of local variables with initializers.
