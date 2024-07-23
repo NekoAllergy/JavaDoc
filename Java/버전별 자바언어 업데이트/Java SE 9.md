@@ -69,5 +69,7 @@ https://openjdk.org/projects/jigsaw/
 여기는 이런 기술을 쓰면 도움이 되겠다 정도의 문서를 링크로 달아놓은거라 굳이 읽진 않음
 
 JEP에 기술한 문서의 내용이 실제로 모두 적용되지 않음.
+
+앞으로 JEP에 대한 문서는 생략함.
 ```
 https://openjdk.org/projects/jigsaw/spec/
