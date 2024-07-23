@@ -52,6 +52,13 @@ https://openjdk.org/projects/jigsaw/
 > Modules can either export or encapsulate packages, and they express dependencies on other modules explicitly.
 ### 설명
 ```
+JPMS는 아까 나온 모듈에 대해 간단하게 설명하고 있다.
+
+모듈에는 모듈의 이름과 소개, 알아보기 쉬운 코드조각 또는 모음(의역:self-describing collection of code)과 데이터가 있다.
+
+모듈은 자바클래스와 인터페이스같은 타입이 들어있는 패키지로 구성했다. 그리고 리소스와 정적인 정보를(html문서나 이미지를 말하는듯) 가지고 있다.
+ 
+모듈은 패키지를 배포하거나(내보내기) 캡슐화할 수 있고, 다른 모듈과 분명하게(explicitly) 연결(dependencies)을 표현(express)할 수 있다.
 
 ```
 
